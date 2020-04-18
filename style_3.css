@@ -1,0 +1,106 @@
+.nav a {
+    display: inline-block;
+    color: black;
+    padding: 60px 0px 20px 80px;
+    text-align: right;
+    text-transform: uppercase;
+    font-size: 15px;
+    text-decoration: none;
+    position: relative;
+    float: right;
+}
+
+.title {
+    display: inline-block;
+    color: black;
+    padding: 60px 60px 20px 0px;
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 22px;
+    text-decoration: none;
+    position: relative;
+    float: left;
+}
+.gambar1{
+text-align: center;
+    width: 100%;
+    margin-bottom: 80px;
+}
+
+.pc1 {
+    width: 720px;
+    margin-bottom: 55px;
+}
+
+.pc2 {
+    width: 720px;
+    margin-bottom: 55px;
+}
+
+.pc3 {
+    width: 720px;
+    margin-bottom: 55px;
+}
+
+.pc4 {
+    width: 345px;
+    margin-bottom: 55px;
+}
+
+.italic-part {
+    padding: 0 30px;
+    margin-bottom: 30px;
+}
+
+.image3 img {
+    width: 20px;
+    margin-left: 10px;
+}
+
+.MINIMO-bagian3 .image-versi3 img{
+    width: 20px;
+    float: right;
+}
+
+.selesai-bagian3{
+    float: left;
+}
+
+.bagian3 {
+    margin-bottom: 50px;
+}
+
+.top-post {
+    margin: 40px 0 40px 0; 
+}
+
+.bagian4 {
+background-color: #dedede;
+padding: 90px 0 70px 0;
+margin-bottom: 50px;
+}
+
+.gambar4 {
+    width: 320px;
+}
+
+#bagian9 {
+    background-color: #dedede;
+    margin-top: 100px;
+}
+
+footer {
+    float: left;
+    padding: 20px;
+    background-color: #dedede;
+}
+
+.sosfooter {
+    float: right;
+    margin-left: 15px;
+}
+
+.MINIMO-bagian3{
+    float: right; 
+    margin-left: 15px;
+}
